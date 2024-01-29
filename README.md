@@ -16,3 +16,6 @@ Man kann relativ einfach ohne tiefergehende Programmierkentnisse einen Hack kopi
 
 Der Hack wird unter Debian ausgeführt während CS 1.6 am KVM Win10 Gast läuft. Debian liest den Speicher vom Linux Gast ohne Probleme aus.
 Probleme gibt es wenn CS 1.6 mehrmals gestartet wird dann injected der Hack nicht richtig. Es muss dann Steam beendet und neugestartet werden damit der Hack wieder funktioniert.
+
+Todo List: 
+Portieren auf neueres Memflow so wie zb. das Projekt: https://raw.githubusercontent.com/ntegan/memflow-hypervisor_bhop/main/bhop/src/main.rs
